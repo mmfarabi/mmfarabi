@@ -31,7 +31,7 @@ Experienced Web Development Manager and AI/ML app developer with expertise in Py
 ### **Kaggle**
 **January 2021 – Present**  
 - Completed 40+ Kaggle competitions, demonstrating expertise in data science, machine learning, and AI-driven problem-solving.  
-- **Profile Link**: [Kaggle Profile](https://www.kaggle.com/mirzanilanfarabi)
+- **Profile Link**: [Kaggle Profile](https://www.kaggle.com/mirzamilanfarabi)
 
 ### **Gemini API Developer Competition**
 **July 2024 – August 2024**  
