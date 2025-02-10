@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 Professional Summary
-Experienced Web Development Manager and AI/ML app developer with expertise in Python, Java, Machine Learning and Flask, optimizing code quality and user experience to deliver AI-driven solutions. Delivered innovative AI applications, improving efficiency and user engagement. Actively competing in tech challenges, refining skills in AutoML, Data Science, and Software Development.
+Experienced Web Development Manager and AI/ML app developer with expertise in Python, Java, Machine Learning and Flask, optimizing code quality and user experience to deliver AI-driven solutions. Delivered innovative AI applications, improving efficiency and user engagement. Actively competing in tech challenges, refining skills in Machine Learning, Data Science, and Software Development.
 
 ---
 
