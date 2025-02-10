@@ -48,7 +48,7 @@ Experienced Web Development Manager and AI/ML app developer with expertise in Py
 - Compete in Lablab.ai hackathons, developing cutting-edge AI solutions to advance AI innovation.  
 - **Profile Link**: [Lablab.ai Profile](https://lablab.ai/ui@mmfarabi)
 
-### **MTI Informatics Tournament**
+### **MIT Informatics Tournament**
 **January 19th, 2025**  
 - Participated in the MIT Informatics Tournament as part of the **Recursive Rangers** team, securing a global ranking of 194.  
 - **Scoreboard Link**: [MIT IT Scoreboard](https://mitit.org/Contest/ViewScoreboard/advanced1-2025?cid_2=advanced2-2025)
