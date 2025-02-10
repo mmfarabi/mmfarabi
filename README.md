@@ -46,7 +46,7 @@ Experienced Web Development Manager and AI/ML app developer with expertise in Py
 ### **Lablab.ai**
 **November 2024 – Present**  
 - Compete in Lablab.ai hackathons, developing cutting-edge AI solutions to advance AI innovation.  
-- **Profile Link**: [Lablab.ai Profile](https://lablab.ai/ui@mmfarabi)
+- **Profile Link**: [Lablab.ai Profile](https://lablab.ai/u/@mmfarabi)
 
 ### **MIT Informatics Tournament**
 **January 19th, 2025**  
