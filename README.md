@@ -5,7 +5,7 @@
 ---
 
 ## 📞 Contact Information
-- **Email:** [mmfarabi28m@gmail.com](mailto:mmfarabi28m@gmail.com)
+- **Email:** [mirzamilanfarabi@gmail.com](mailto:mirzamilanfarabi@gmail.com)
 - **LinkedIn:** [Mirza Milan Farabi](https://www.linkedin.com/in/mirza-milan-farabi-b31209258) 
 - **Twitter:** [Mirza Milan Farabi](https://x.com/m_milan_farabi)
 
