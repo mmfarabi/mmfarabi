@@ -69,7 +69,8 @@ Experienced Web Development Manager and AI/ML app developer with expertise in Py
 |---------------------|---------------------------------------------------------------------------|
 | **Programming Language**  | Python, Java, C, C++, Shell Scripting, Assembly Language |
 | **Web Development** | Flask, Streamlit, Gradio, OpenStreetMap, Bootstrap, ASP.NET, PHP, HTML, CSS, JavaScript, MySQL, SQLite |
-| **AI/ML**  | AutoML, OpenAI, Google Gemini, IBM Watson, Prompt Engineering  |
+| **Machine Learning**  | AutoML, FLAML, AutoGluon, Tabular Models, Time Series Forecasting  |
+| **Artificial Intelligence**  | OpenAI, Google Gemini, IBM Watson, Large Language Models (LLMs), Prompt Engineering  |
 | **Data Science**  | Feature Engineering, Data Analysis, Data Preprocessing  |
 | **IT Support**  | Web Server Management, Website Security, IT Infrastructure Maintenance  |
 | **Tools**  | Git, JIRA, Visual Studio, Jupyter Notebook, Weka  |
