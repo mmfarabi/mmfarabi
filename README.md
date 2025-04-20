@@ -18,6 +18,12 @@ Experienced Web Development Manager and AI/ML app developer with expertise in Py
 
 ## 💼 Experience
 
+### **AI & ML Application Developer** — Research, Prototyping & Innovation
+**June, 2024  – Present**
+- Specialize in building smart applications using machine learning, GenAI, and Python frameworks with a focus on performance and usability.
+- Developed multiple end-to-end prototypes, gaining practical experience across data preprocessing, model tuning, and front-end integration.
+- Pursue continuous learning through tech challenges and solo innovation, aligning with industry trends in AI-powered software solutions.
+
 ### **Loyal Communication** — Manager, Web Development  
 **December 2020 – Present**  
 - Led complete web projects, ensuring on-time delivery and aligning with business objectives to enhance client satisfaction.  
