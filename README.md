@@ -36,7 +36,7 @@ AI & ML App Developer with strong expertise in Python, Java, Machine Learning, a
 
 ### **Kaggle**
 **January 2021 – Present**  
-- Completed 40+ Kaggle competitions, demonstrating expertise in data science, machine learning, and AI-driven problem-solving.  
+- Completed 50+ Kaggle competitions, demonstrating expertise in data science, machine learning, and AI-driven problem-solving.  
 - **Profile Link**: [Kaggle Profile](https://www.kaggle.com/mirzamilanfarabi)
 
 ### **Gemini API Developer Competition**
