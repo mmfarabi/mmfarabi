@@ -12,23 +12,23 @@
 ---
 
 ## 👨‍💻 Professional Summary
-AI & ML App Developer and Experienced Web Development Manager with strong expertise in Python, Java, Machine Learning, and Flask. Focused on delivering AI-driven solutions that enhance efficiency, automation, and user engagement. Successfully built and deployed intelligent applications across various domains. Actively competing in tech challenges, continually refining skills in AutoML, Data Science, and Software Development.
+AI & ML App Developer with strong expertise in Python, Java, Machine Learning, and Flask. Focused on delivering AI-driven solutions that enhance efficiency, automation, and user engagement. Successfully built and deployed intelligent applications across various domains. Actively competing in tech challenges, continually refining skills in AutoML, Data Science, and Software Development.
 
 ---
 
 ## 💼 Experience
 
 ### **AI & ML Application Developer** — Research, Prototyping & Innovation
-**June, 2024  – Present**
-- Specialize in building smart applications using machine learning, GenAI, and Python frameworks with a focus on performance and usability.
-- Developed multiple end-to-end prototypes, gaining practical experience across data preprocessing, model tuning, and front-end integration.
-- Pursue continuous learning through tech challenges and solo innovation, aligning with industry trends in AI-powered software solutions.
+**January, 2022  – Present**
+- Independently design and develop smart applications using machine learning, generative AI, and Python-based frameworks, with a strong focus on performance, usability, and innovation.
+- Delivered multiple end-to-end prototypes, gaining hands-on experience in data preprocessing, model optimization, and seamless front-end integration.
+- Engage in continuous self-driven learning and solo R&D projects, staying aligned with the latest advancements in AI-powered software solutions.
 
-### **Loyal Communication** — Manager, Web Development  
-**December 2020 – Present**  
-- Led complete web projects, ensuring on-time delivery and aligning with business objectives to enhance client satisfaction.  
-- Managed and mentored developers, optimizing team efficiency and resource allocation to streamline project execution.  
-- Resolved critical web security issues, preventing revenue loss and earning senior management recognition for risk mitigation.
+### **Loyal Communication** — Manager, Web Development (Contractual, Project-Based)
+**December, 2020 – June, 2025**  
+- Delivered full-cycle web development projects under contractual agreements, aligning deliverables with client goals and ensuring timely execution.
+- Led and mentored development teams on a per-project basis, improving productivity and effective resource utilization.
+- Addressed critical web security vulnerabilities in client projects, preventing potential revenue loss and earning recognition from senior leadership.
 
 ---
 
