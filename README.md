@@ -19,7 +19,7 @@ AI & ML App Developer with strong expertise in Python, Java, Machine Learning, a
 ## 💼 Experience
 
 ### **AI & ML Application Developer** — Research, Prototyping & Innovation
-**January, 2022  – Present**
+**December, 2022  – Present**
 - Independently design and develop smart applications using machine learning, generative AI, and Python-based frameworks, with a strong focus on performance, usability, and innovation.
 - Delivered multiple end-to-end prototypes, gaining hands-on experience in data preprocessing, model optimization, and seamless front-end integration.
 - Engage in continuous self-driven learning and solo R&D projects, staying aligned with the latest advancements in AI-powered software solutions.
