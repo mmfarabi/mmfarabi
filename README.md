@@ -38,7 +38,7 @@ I am also an independent AI/ML app developer and an active competitor in various
 
 ### **Kaggle**
 **January 2021 – Present**  
-- Completed 50+ Kaggle competitions, demonstrating expertise in data science, machine learning, and AI-driven problem-solving.  
+- Completed 60+ Kaggle competitions, demonstrating expertise in data science, machine learning, and AI-driven problem-solving.  
 - **Profile Link**: [Kaggle Profile](https://www.kaggle.com/mirzamilanfarabi)
 
 ### **Gemini API Developer Competition**
