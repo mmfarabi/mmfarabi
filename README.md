@@ -12,7 +12,9 @@
 ---
 
 ## 👨‍💻 Professional Summary
-AI & ML App Developer with strong expertise in Python, Java, Machine Learning, and Flask. Focused on delivering AI-driven solutions that enhance efficiency, automation, and user engagement. Successfully built and deployed intelligent applications across various domains. Actively competing in tech challenges, continually refining skills in AutoML, Data Science, and Software Development.
+I am a dedicated IT professional with over 4 years of experience in web development and IT support, specializing in creating user-friendly web solutions and maintaining efficient IT infrastructure. I have served as the Team Leader of Web Development at Loyal Communication, where I led a team to optimize code quality, enhance user experience, and manage IT systems to deliver high-quality web solutions.
+
+I am also an independent AI/ML app developer and an active competitor in various tech competitions. My expertise spans Python, Java, Machine Learning, Artificial Intelligence, Flask Web Development, AutoML, Data Science, Prompt Engineering, Feature Engineering, Software Development and more.
 
 ---
 
