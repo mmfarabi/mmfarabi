@@ -28,9 +28,9 @@ I am also an independent AI/ML app developer and an active competitor in various
 
 ### **Loyal Communication** — Manager, Web Development (Contractual, Project-Based)
 **December, 2020 – June, 2025**  
-- Delivered full-cycle web development projects under contractual agreements, aligning deliverables with client goals and ensuring timely execution.
-- Led and mentored development teams on a per-project basis, improving productivity and effective resource utilization.
-- Addressed critical web security vulnerabilities in client projects, preventing potential revenue loss and earning recognition from senior leadership.
+- Deliver full-cycle web development projects under contractual agreements, aligning deliverables with client goals and ensuring timely execution.
+- Lead and mentor development teams on a per-project basis, improving productivity and effective resource utilization.
+- Address critical web security vulnerabilities in client projects, preventing potential revenue loss and earning recognition from senior leadership.
 
 ---
 
