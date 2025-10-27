@@ -98,6 +98,7 @@ I am also an independent AI/ML app developer and an active competitor in various
 
 - [**Oracle Certified Professional**, Java SE 6 Programmer - 2016](https://www.credly.com/badges/b76396de-952a-4a68-8f98-029af16cc59c)
 - **Cisco Certified Network Associate**, Training - 2016
+- **The Intelligence Equation: AI, EQ & the Future of Work** - 2025
 
 ---
 
